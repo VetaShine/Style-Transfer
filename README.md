@@ -22,11 +22,11 @@
 ### Схема C4
 Ниже представлена архитектурная схема системы, соответствующая стандарту C4:  
 1. **Контекст (Context):** Показывает взаимодействие пользователей и внешних систем с приложением.
-![Схема контекста](https://github.com/VetaShine/Style-Transfer/blob/main/images/context.jpg)  
-2. **Контейнеры (Containers):** Основные компоненты системы, такие как веб-сервер, ML-модель, API и др.
-![Схема контейнеров](https://github.com/VetaShine/Style-Transfer/blob/main/images/%D1%81ontainers.JPG)
+![Схема контекста](https://github.com/VetaShine/Style-Transfer/blob/main/images/context.png)  
+2. **Контейнеры (Containers):** Описывает верхнеуровневую архитектуру.
+![Схема контейнеров](https://github.com/VetaShine/Style-Transfer/blob/main/images/containers.png)
 3. **Компоненты (Components):** Углублённое описание каждого контейнера.
-![Схема компонентов](https://github.com/VetaShine/Style-Transfer/blob/main/images/components.PNG)
+![Схема компонентов](https://github.com/VetaShine/Style-Transfer/blob/main/images/components.png)
 4. **Код (Code):** Включает структуру ключевых частей кода.
    ``` text
    /root
