@@ -23,7 +23,7 @@
   ```
   cp .env.example .env
   ```
-3 Собрать и запустить *docker-compose*:
+3. Собрать и запустить *docker-compose*:
   ```
   docker-compose up --build
   ```
