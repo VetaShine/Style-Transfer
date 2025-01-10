@@ -4,7 +4,7 @@
 [Презентация проекта стилизации изображений](https://github.com/VetaShine/Style-Transfer/blob/main/StyleTransfer_presentation.pdf)  
 
 ## Ссылка на демострацию работы
-[Демонстрация работы](https://drive.google.com/drive/folders/1OjdSIfQMRohT9Zpy7flNbbOLtjRKvEnI?usp=drive_link)
+[Демонстрация работы](https://drive.google.com/file/d/1iLvPYBFEonq8fy6-j2FDzqLlf7ol4hq1/view?usp=sharing)
 
 ## Таблица участников  
 
