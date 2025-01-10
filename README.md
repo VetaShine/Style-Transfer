@@ -1,9 +1,9 @@
 # **Проект: Style-Transfer**
 
-## Ссылка на презентацию  
+## Ссылка на презентацию проекта
 [Презентация проекта стилизации изображений](https://github.com/VetaShine/Style-Transfer/blob/main/StyleTransfer_presentation.pdf)  
 
-## Ссылка на демострацию работы
+## Ссылка на демонстрацию работы проекта
 [Демонстрация работы](https://drive.google.com/file/d/1iLvPYBFEonq8fy6-j2FDzqLlf7ol4hq1/view?usp=sharing)
 
 ## Таблица участников  
