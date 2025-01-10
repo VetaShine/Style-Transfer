@@ -1,0 +1,7 @@
+aiogram==2.25.1
+aio_pika
+asyncio
+aioredis
+redis
+boto3
+python-dotenv
