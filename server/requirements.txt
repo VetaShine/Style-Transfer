@@ -1,0 +1,11 @@
+aio_pika
+asyncio
+torch
+torchvision
+tensorflow
+keras
+scikit-image
+numpy
+pillow
+boto3
+dotenv
